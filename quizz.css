@@ -1,0 +1,22 @@
+body
+{
+	font-family: Open sans regular;
+	background-color : #313239   ;
+}
+	#test{
+		width: 80%;
+		height:500px;
+		margin : auto;
+		font-size: 245%;
+		font-weight: bold;
+		color:white;
+
+	}
+	#test_statut{
+		width: 80%;
+		margin: auto;
+		text-align:center;
+		color:white;
+		font-size : 150%;
+		padding: 1%;
+	}
